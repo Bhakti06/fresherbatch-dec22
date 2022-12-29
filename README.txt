@@ -1,6 +1,3 @@
-Hello
+hii
 good morining
-<<<<<<< HEAD
-=======
-Css
->>>>>>> css-assignment
+js
